@@ -1,0 +1,10 @@
+# VS Code
+.vscode/
+
+# Ignore compiled executables
+main
+*.exe
+*.out
+
+# Ignore debug symbol files (macOS)
+*.dSYM/
